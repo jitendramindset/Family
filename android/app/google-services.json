@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609719245746",
+    "firebase_url": "https://gotra-social-netwirk.firebaseio.com",
+    "project_id": "gotra-social-netwirk",
+    "storage_bucket": "gotra-social-netwirk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609719245746:android:691366ce0da088bf1922ab",
+        "android_client_info": {
+          "package_name": "com.mantravat.gotra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609719245746-u4koob9k4c12vmpvkrc4ha6n0c72v8ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mantravat.gotra",
+            "certificate_hash": "11f09b4bfdd8b6e94562102256a270abed936aa3"
+          }
+        },
+        {
+          "client_id": "609719245746-lbpm52gs9sl9v41oj3vtjiprjpebjqur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhg4sxysOMiVSZBRW4kFlFhlBopXgR3os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609719245746-lbpm52gs9sl9v41oj3vtjiprjpebjqur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
